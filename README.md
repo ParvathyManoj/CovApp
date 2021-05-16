@@ -1,0 +1,2 @@
+# CovApp
+Flutter project. BFH
